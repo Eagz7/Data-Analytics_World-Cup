@@ -1,3 +1,4 @@
+#Data-Analytics_World-Cup
 Análisis de una Base de Datos que reune información de todos los Mundiales de Fútbol de la historia. Tanto de jugadores y sus estadísticas, todos los partidos jugados en cada mundial con sus scores y datos totales de cada mundial realizado dentro en 3 hojas. Estos fueron los procesos de desarrollo realizados:
 
 - Agregado de una nueva columna con Pandas que combina dos ya existentes
